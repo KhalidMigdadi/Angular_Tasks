@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "2NHYCCAL/aIO7NhWXcvPf3LV/GyuHL5W/nIsqK3NEkM=",
+  "Source": "Task1.Server",
+  "BasePath": "_content/Task1.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\OrangeAcadyme\\Angular\\Tasks\\Task1\\task1.client\\task1.client.esproj",
+      "Version": 2,
+      "Source": "task1.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
