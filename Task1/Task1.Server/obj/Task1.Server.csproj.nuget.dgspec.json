@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\OrangeAcadyme\\Angular\\Tasks\\Task1\\Task1.Server\\Task1.Server.csproj": {}
+    "C:\\OrangeAcadyme\\Angular\\Angular_Tasks\\Task1\\Task1.Server\\Task1.Server.csproj": {}
   },
   "projects": {
-    "C:\\OrangeAcadyme\\Angular\\Tasks\\Task1\\Task1.Server\\Task1.Server.csproj": {
+    "C:\\OrangeAcadyme\\Angular\\Angular_Tasks\\Task1\\Task1.Server\\Task1.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\OrangeAcadyme\\Angular\\Tasks\\Task1\\Task1.Server\\Task1.Server.csproj",
+        "projectUniqueName": "C:\\OrangeAcadyme\\Angular\\Angular_Tasks\\Task1\\Task1.Server\\Task1.Server.csproj",
         "projectName": "Task1.Server",
-        "projectPath": "C:\\OrangeAcadyme\\Angular\\Tasks\\Task1\\Task1.Server\\Task1.Server.csproj",
+        "projectPath": "C:\\OrangeAcadyme\\Angular\\Angular_Tasks\\Task1\\Task1.Server\\Task1.Server.csproj",
         "packagesPath": "C:\\Users\\Orange\\.nuget\\packages\\",
-        "outputPath": "C:\\OrangeAcadyme\\Angular\\Tasks\\Task1\\Task1.Server\\obj\\",
+        "outputPath": "C:\\OrangeAcadyme\\Angular\\Angular_Tasks\\Task1\\Task1.Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

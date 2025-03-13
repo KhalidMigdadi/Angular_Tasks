@@ -10,6 +10,7 @@ import { CategoryComponent } from './category/category.component';
 import { SignInComponent } from './sign-in/sign-in.component';
 import { SignUpComponent } from './sign-up/sign-up.component';
 import { ProductComponent } from './product/product.component';
+import { CoreModule } from './core/core.module';
 
 @NgModule({
   declarations: [
@@ -19,11 +20,13 @@ import { ProductComponent } from './product/product.component';
     CategoryComponent,
     SignInComponent,
     SignUpComponent,
-    ProductComponent
+    ProductComponent,
   ],
   imports: [
-    BrowserModule, HttpClientModule,
-    AppRoutingModule
+    BrowserModule,
+    HttpClientModule, // make get and post to browser 
+    AppRoutingModule,
+    CoreModule  // that have all important thing in project 
   ],
   providers: [],
   bootstrap: [AppComponent]

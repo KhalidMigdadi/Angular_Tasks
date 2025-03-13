@@ -1,7 +1,24 @@
-<div class="card" style="width: 18rem;">
+<!--<div class="card" style="width: 18rem;">
   <div class="card-body">
     <h5 class="card-title">Product One</h5>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
     <a routerLink="#" class="btn btn-primary">See details</a>
   </div>
+</div>-->
+
+
+<!--<p>{{name}}</p>-->
+
+
+
+<div class="card" style="width: 18rem;" *ngFor="let item of dataContainer">
+  <!-- *ngFor is to make for loop inside the data inside the array, item is obj and category is array of obj -->
+  <img src="{{item.img}}" class="card-img-top" /> <!--item.img the prop inside the obj-->
+  <div class="card-body">
+    <h5 class="card-title">{{item.name}}</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a routerLink="/product/{{item.id}}" class="btn btn-primary">Go to Product</a>
+  </div>
 </div>
+
+
