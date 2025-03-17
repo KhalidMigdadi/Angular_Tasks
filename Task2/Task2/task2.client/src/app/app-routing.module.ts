@@ -10,7 +10,7 @@ const routes: Routes = [
   { path: "signIn", component: SignInComponent },
   { path: "signUp", component: SignUpComponent },
   { path: "cat", component: CategoryComponent },
-  { path: "pro/:id", component: ProductsComponent }
+  { path: "pro/:id", component: ProductsComponent } // the id here is the Primary key
 ];
 
 @NgModule({

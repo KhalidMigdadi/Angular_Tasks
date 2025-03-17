@@ -15,9 +15,11 @@ export interface Products {
   categoryId: number;
 }
 
-@Injectable({
+@Injectable({ // you can make inject anywhere
   providedIn: 'root'
 })
+
+
 export class UrlService {
   private CatAPIUrl = 'https://67cd64b6dd7651e464ee3d63.mockapi.io/categories';
   private ProAPIUrl = 'https://67cd64b6dd7651e464ee3d63.mockapi.io/products';
@@ -25,7 +27,7 @@ export class UrlService {
 
   constructor(private http: HttpClient) { }
 
-  getCategories(): Observable<Category[]> {
+  getCategories(): Observable<Category[]> {  // Observable make sync for the data, the method make lestien for the Observable if she get the data or not and when the data arrive the sub will work
     return this.http.get<Category[]>(this.CatAPIUrl);
   }
 

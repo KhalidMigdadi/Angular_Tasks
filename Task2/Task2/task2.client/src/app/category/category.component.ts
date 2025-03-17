@@ -19,7 +19,7 @@ export class CategoryComponent implements OnInit {
   }
 
   getData() {
-    this._url.getCategories().subscribe((data) => {
+    this._url.getCategories().subscribe((data) => { // the data is come from API and i have to store it in some where
       this.category = data;
     })
   }

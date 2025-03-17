@@ -14,7 +14,7 @@
       <td>{{cat.name}}</td>
       <td><img [src]="cat.img" /></td>
       <td>{{cat.id}}</td>
-      <a [routerLink]="['/pro', cat.id]" class="btn btn-primary btn-block mb-4">Go To Product</a>
+      <td> <a routerLink="/pro/{{cat.id}}" class="btn btn-primary btn-block mb-4">Go To Product</a> </td> <!--i want to send the id for make filteration for who i will filter-->
       <!--when i click on this button the cat id will send to the product -->
     </tr>
   </tbody>
