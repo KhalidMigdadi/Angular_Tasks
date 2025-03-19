@@ -34,4 +34,19 @@ export class UrlService {
   getProducts(): Observable<Products[]> {
     return this.http.get<Products[]>(this.ProAPIUrl)
   }
+
+
+
+
+
+
+
+  postData(data: any) {
+
+    return this.http.post<any>("https://67cd64b6dd7651e464ee3d63.mockapi.io/products", data);
+
+  }
+
+
+
 }

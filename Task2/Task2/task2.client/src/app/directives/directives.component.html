@@ -1,0 +1,12 @@
+<div *ngIf="isAuth; then welcome else error"></div>
+
+
+<ng-template #welcome>
+  <p style="color: green">Welcome to our Website</p>
+</ng-template>
+
+
+<ng-template #error>
+  <p style="color: red">your not logged</p>
+  </ng-template>
+

@@ -11,6 +11,7 @@ import { FooterComponent } from './footer/footer.component';
 import { CategoryComponent } from './category/category.component';
 import { ProductsComponent } from './products/products.component';
 import { FormsModule } from '@angular/forms';
+import { DirectivesComponent } from './directives/directives.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { FormsModule } from '@angular/forms';
     NavComponent,
     FooterComponent,
     CategoryComponent,
-    ProductsComponent
+    ProductsComponent,
+    DirectivesComponent
   ],
   imports: [
     BrowserModule, HttpClientModule,
