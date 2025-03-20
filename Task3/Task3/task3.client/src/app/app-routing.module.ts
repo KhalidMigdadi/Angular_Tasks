@@ -9,12 +9,15 @@ import { AddCategoryComponent } from './Admin/add-category/add-category.componen
 import { AddProductComponent } from './Admin/add-product/add-product.component';
 import { GetCategoryComponent } from './Admin/get-category/get-category.component';
 import { GetProductComponent } from './Admin/get-product/get-product.component';
+import { EditCategoryComponent } from './Admin/edit-category/edit-category.component';
+import { PipesComponent } from './pipes/pipes.component';
 
 const routes: Routes = [
 
   { path: "login", component: LoginComponent },
   { path: "register", component: RegisterComponent },
   { path: "cat", component: ShowCategoryComponent },
+  { path: "pipe", component: PipesComponent },
   { path: "pro/:id", component: ShowProductsComponent },
   {
     path: "dashboard", component: DashboardComponent, children: [
@@ -23,6 +26,8 @@ const routes: Routes = [
       { path: "addpro", component: AddProductComponent },
       { path: "getCat", component: GetCategoryComponent },
       { path: "getpro", component: GetProductComponent },
+      { path: "editCat/:id", component: EditCategoryComponent }
+
 
 
     ]

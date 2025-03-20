@@ -9,13 +9,14 @@ import { ActivatedRoute } from '@angular/router';
 })
 export class GetProductComponent {
 
-  Products: any;
-  categoryId: any;
-  constructor(private _url: UrlService, private route: ActivatedRoute) { }
+  constructor(private _url: UrlService) { }
 
   ngOnInit() {
     this.fetchAllProducts();
   }
+
+  Products: any;
+
 
   fetchAllProducts() {
     this._url.getProducts().subscribe((data) => {

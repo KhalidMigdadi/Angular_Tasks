@@ -1,0 +1,54 @@
+
+
+<h3>String Pipes Example</h3>
+
+<p>Original: {{ message }}</p>
+<p>Uppercase: {{ message | uppercase }}</p>
+<p>Lowercase: {{ message | lowercase }}</p>
+
+
+
+<hr />
+<hr />
+
+
+
+<!--{{ numberValue | decimal:'minDigits.maxDigits' }}-->
+<h3>Number Pipes Example</h3>
+
+<p>Original Number: {{ value }}</p>
+<p>Decimal Format: {{ value | number:'1.2-2' }}</p>
+<p>Currency Format (USD): {{ value | currency:'USD' }}</p>
+<p>Currency Format (JOD): {{ value | currency:'JOD':'symbol':'1.0-0' }}</p>
+<p>Percentage Format: {{ value | percent }}</p> <!--*100, then add %-->
+
+
+<hr />
+<hr />
+
+
+<h3>Date Pipes Example</h3>
+
+
+<p>{{ date | date }}</p>
+<p>{{ date | date:'short' }}</p>
+<p>{{ date | date:'mediumDate' }}</p>
+
+<p>{{ date | date:'fullDate' }}</p>
+<p>{{ date | date:'yyyy/MM/dd' }}</p>
+
+
+<hr />
+<hr />
+
+
+<h3>Array Pipes Example</h3>
+
+<!--converte it to string and if there is number it will be number-->
+<p>{{ myArray | json }}</p>
+
+<p>{{ 'Hello, Angular!' | slice: 0:5 }}</p>
+<p>{{ myArray1 | slice: 0:2 }}</p>
+
+<p>{{ myObject | json }}</p>
+
