@@ -43,8 +43,7 @@
               "ViewState": "AgIAACwAAAAAAAAAAAAkwEIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-03-18T21:53:12.721Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -56,8 +55,7 @@
               "RelativeToolTip": "task3.client\\src\\app\\Admin\\get-product\\get-product.component.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-19T12:54:26.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T12:54:26.586Z"
             },
             {
               "$type": "Document",
@@ -69,8 +67,7 @@
               "RelativeToolTip": "task3.client\\src\\app\\Admin\\get-product\\get-product.component.ts",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-19T12:53:27.335Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T12:53:27.335Z"
             },
             {
               "$type": "Document",
@@ -82,8 +79,7 @@
               "RelativeToolTip": "task3.client\\src\\app\\Admin\\edit-category\\edit-category.component.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-19T11:44:46.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T11:44:46.346Z"
             },
             {
               "$type": "Document",
@@ -93,7 +89,7 @@
               "RelativeDocumentMoniker": "task3.client\\src\\app\\Admin\\edit-category\\edit-category.component.ts",
               "ToolTip": "C:\\OrangeAcadyme\\Angular\\Angular_Tasks\\Task3\\Task3\\task3.client\\src\\app\\Admin\\edit-category\\edit-category.component.ts",
               "RelativeToolTip": "task3.client\\src\\app\\Admin\\edit-category\\edit-category.component.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-03-19T11:41:45.471Z",
               "EditorCaption": ""
