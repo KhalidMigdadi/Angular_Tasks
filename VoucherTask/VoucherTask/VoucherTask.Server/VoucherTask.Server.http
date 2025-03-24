@@ -1,0 +1,6 @@
+@VoucherTask.Server_HostAddress = http://localhost:5202
+
+GET {{VoucherTask.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

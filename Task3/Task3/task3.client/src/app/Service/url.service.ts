@@ -65,4 +65,10 @@ export class UrlService {
   }
 
 
+  updateUser(id: any, userData: any): Observable<any> {
+    return this.http.put(`https://67cea6ee125cd5af757b6514.mockapi.io/Users/${id}`, userData);
+  }
+
+
+
 }

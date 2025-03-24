@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:60354",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\OrangeAcadyme\\Angular\\Angular_Tasks\\VoucherTask\\VoucherTask\\VoucherTask.Server\\..\\vouchertask.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

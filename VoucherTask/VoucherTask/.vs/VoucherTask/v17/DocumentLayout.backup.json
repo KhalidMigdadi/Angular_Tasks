@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\OrangeAcadyme\\Angular\\Angular_Tasks\\VoucherTask\\VoucherTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB44B0FF-2159-422C-875E-5DE74D1C0681}|vouchertask.client\\vouchertask.client.esproj|c:\\orangeacadyme\\angular\\angular_tasks\\vouchertask\\vouchertask\\vouchertask.client\\src\\app\\edit-voucher\\edit-voucher.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{DB44B0FF-2159-422C-875E-5DE74D1C0681}|vouchertask.client\\vouchertask.client.esproj|solutionrelative:vouchertask.client\\src\\app\\edit-voucher\\edit-voucher.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB44B0FF-2159-422C-875E-5DE74D1C0681}|vouchertask.client\\vouchertask.client.esproj|c:\\orangeacadyme\\angular\\angular_tasks\\vouchertask\\vouchertask\\vouchertask.client\\src\\app\\edit-voucher\\edit-voucher.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB44B0FF-2159-422C-875E-5DE74D1C0681}|vouchertask.client\\vouchertask.client.esproj|solutionrelative:vouchertask.client\\src\\app\\edit-voucher\\edit-voucher.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB44B0FF-2159-422C-875E-5DE74D1C0681}|vouchertask.client\\vouchertask.client.esproj|c:\\orangeacadyme\\angular\\angular_tasks\\vouchertask\\vouchertask\\vouchertask.client\\src\\app\\service\\url.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{DB44B0FF-2159-422C-875E-5DE74D1C0681}|vouchertask.client\\vouchertask.client.esproj|solutionrelative:vouchertask.client\\src\\app\\service\\url.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB44B0FF-2159-422C-875E-5DE74D1C0681}|vouchertask.client\\vouchertask.client.esproj|c:\\orangeacadyme\\angular\\angular_tasks\\vouchertask\\vouchertask\\vouchertask.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{DB44B0FF-2159-422C-875E-5DE74D1C0681}|vouchertask.client\\vouchertask.client.esproj|solutionrelative:vouchertask.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB44B0FF-2159-422C-875E-5DE74D1C0681}|vouchertask.client\\vouchertask.client.esproj|c:\\orangeacadyme\\angular\\angular_tasks\\vouchertask\\vouchertask\\vouchertask.client\\src\\app\\vouchers\\vouchers.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{DB44B0FF-2159-422C-875E-5DE74D1C0681}|vouchertask.client\\vouchertask.client.esproj|solutionrelative:vouchertask.client\\src\\app\\vouchers\\vouchers.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB44B0FF-2159-422C-875E-5DE74D1C0681}|vouchertask.client\\vouchertask.client.esproj|c:\\orangeacadyme\\angular\\angular_tasks\\vouchertask\\vouchertask\\vouchertask.client\\src\\app\\vouchers\\vouchers.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB44B0FF-2159-422C-875E-5DE74D1C0681}|vouchertask.client\\vouchertask.client.esproj|solutionrelative:vouchertask.client\\src\\app\\vouchers\\vouchers.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB44B0FF-2159-422C-875E-5DE74D1C0681}|vouchertask.client\\vouchertask.client.esproj|c:\\orangeacadyme\\angular\\angular_tasks\\vouchertask\\vouchertask\\vouchertask.client\\src\\app\\edit-voucher\\edit-voucher.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{DB44B0FF-2159-422C-875E-5DE74D1C0681}|vouchertask.client\\vouchertask.client.esproj|solutionrelative:vouchertask.client\\src\\app\\edit-voucher\\edit-voucher.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB44B0FF-2159-422C-875E-5DE74D1C0681}|vouchertask.client\\vouchertask.client.esproj|c:\\orangeacadyme\\angular\\angular_tasks\\vouchertask\\vouchertask\\vouchertask.client\\src\\app\\add-voucher\\add-voucher.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{DB44B0FF-2159-422C-875E-5DE74D1C0681}|vouchertask.client\\vouchertask.client.esproj|solutionrelative:vouchertask.client\\src\\app\\add-voucher\\add-voucher.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB44B0FF-2159-422C-875E-5DE74D1C0681}|vouchertask.client\\vouchertask.client.esproj|c:\\orangeacadyme\\angular\\angular_tasks\\vouchertask\\vouchertask\\vouchertask.client\\src\\app\\add-voucher\\add-voucher.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB44B0FF-2159-422C-875E-5DE74D1C0681}|vouchertask.client\\vouchertask.client.esproj|solutionrelative:vouchertask.client\\src\\app\\add-voucher\\add-voucher.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB44B0FF-2159-422C-875E-5DE74D1C0681}|vouchertask.client\\vouchertask.client.esproj|c:\\orangeacadyme\\angular\\angular_tasks\\vouchertask\\vouchertask\\vouchertask.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{DB44B0FF-2159-422C-875E-5DE74D1C0681}|vouchertask.client\\vouchertask.client.esproj|solutionrelative:vouchertask.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB44B0FF-2159-422C-875E-5DE74D1C0681}|vouchertask.client\\vouchertask.client.esproj|c:\\orangeacadyme\\angular\\angular_tasks\\vouchertask\\vouchertask\\vouchertask.client\\src\\app\\navbar\\navbar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB44B0FF-2159-422C-875E-5DE74D1C0681}|vouchertask.client\\vouchertask.client.esproj|solutionrelative:vouchertask.client\\src\\app\\navbar\\navbar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "vouchers.component.ts",
+              "DocumentMoniker": "C:\\OrangeAcadyme\\Angular\\Angular_Tasks\\VoucherTask\\VoucherTask\\vouchertask.client\\src\\app\\vouchers\\vouchers.component.ts",
+              "RelativeDocumentMoniker": "vouchertask.client\\src\\app\\vouchers\\vouchers.component.ts",
+              "ToolTip": "C:\\OrangeAcadyme\\Angular\\Angular_Tasks\\VoucherTask\\VoucherTask\\vouchertask.client\\src\\app\\vouchers\\vouchers.component.ts",
+              "RelativeToolTip": "vouchertask.client\\src\\app\\vouchers\\vouchers.component.ts",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-23T15:05:02.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "edit-voucher.component.spec.ts",
+              "DocumentMoniker": "C:\\OrangeAcadyme\\Angular\\Angular_Tasks\\VoucherTask\\VoucherTask\\vouchertask.client\\src\\app\\edit-voucher\\edit-voucher.component.spec.ts",
+              "RelativeDocumentMoniker": "vouchertask.client\\src\\app\\edit-voucher\\edit-voucher.component.spec.ts",
+              "ToolTip": "C:\\OrangeAcadyme\\Angular\\Angular_Tasks\\VoucherTask\\VoucherTask\\vouchertask.client\\src\\app\\edit-voucher\\edit-voucher.component.spec.ts",
+              "RelativeToolTip": "vouchertask.client\\src\\app\\edit-voucher\\edit-voucher.component.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-23T15:04:27.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "vouchers.component.html",
+              "DocumentMoniker": "C:\\OrangeAcadyme\\Angular\\Angular_Tasks\\VoucherTask\\VoucherTask\\vouchertask.client\\src\\app\\vouchers\\vouchers.component.html",
+              "RelativeDocumentMoniker": "vouchertask.client\\src\\app\\vouchers\\vouchers.component.html",
+              "ToolTip": "C:\\OrangeAcadyme\\Angular\\Angular_Tasks\\VoucherTask\\VoucherTask\\vouchertask.client\\src\\app\\vouchers\\vouchers.component.html",
+              "RelativeToolTip": "vouchertask.client\\src\\app\\vouchers\\vouchers.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-23T14:41:57.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "edit-voucher.component.ts",
+              "DocumentMoniker": "C:\\OrangeAcadyme\\Angular\\Angular_Tasks\\VoucherTask\\VoucherTask\\vouchertask.client\\src\\app\\edit-voucher\\edit-voucher.component.ts",
+              "RelativeDocumentMoniker": "vouchertask.client\\src\\app\\edit-voucher\\edit-voucher.component.ts",
+              "ToolTip": "C:\\OrangeAcadyme\\Angular\\Angular_Tasks\\VoucherTask\\VoucherTask\\vouchertask.client\\src\\app\\edit-voucher\\edit-voucher.component.ts",
+              "RelativeToolTip": "vouchertask.client\\src\\app\\edit-voucher\\edit-voucher.component.ts",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-23T14:40:08.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "edit-voucher.component.html",
+              "DocumentMoniker": "C:\\OrangeAcadyme\\Angular\\Angular_Tasks\\VoucherTask\\VoucherTask\\vouchertask.client\\src\\app\\edit-voucher\\edit-voucher.component.html",
+              "RelativeDocumentMoniker": "vouchertask.client\\src\\app\\edit-voucher\\edit-voucher.component.html",
+              "ToolTip": "C:\\OrangeAcadyme\\Angular\\Angular_Tasks\\VoucherTask\\VoucherTask\\vouchertask.client\\src\\app\\edit-voucher\\edit-voucher.component.html",
+              "RelativeToolTip": "vouchertask.client\\src\\app\\edit-voucher\\edit-voucher.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-23T14:37:09.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\OrangeAcadyme\\Angular\\Angular_Tasks\\VoucherTask\\VoucherTask\\vouchertask.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "vouchertask.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\OrangeAcadyme\\Angular\\Angular_Tasks\\VoucherTask\\VoucherTask\\vouchertask.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "vouchertask.client\\src\\app\\app.module.ts",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-23T14:31:40.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\OrangeAcadyme\\Angular\\Angular_Tasks\\VoucherTask\\VoucherTask\\vouchertask.client\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "vouchertask.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\OrangeAcadyme\\Angular\\Angular_Tasks\\VoucherTask\\VoucherTask\\vouchertask.client\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "vouchertask.client\\src\\app\\app-routing.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-23T14:28:17.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "navbar.component.html",
+              "DocumentMoniker": "C:\\OrangeAcadyme\\Angular\\Angular_Tasks\\VoucherTask\\VoucherTask\\vouchertask.client\\src\\app\\navbar\\navbar.component.html",
+              "RelativeDocumentMoniker": "vouchertask.client\\src\\app\\navbar\\navbar.component.html",
+              "ToolTip": "C:\\OrangeAcadyme\\Angular\\Angular_Tasks\\VoucherTask\\VoucherTask\\vouchertask.client\\src\\app\\navbar\\navbar.component.html",
+              "RelativeToolTip": "vouchertask.client\\src\\app\\navbar\\navbar.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-23T14:28:12.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "add-voucher.component.ts",
+              "DocumentMoniker": "C:\\OrangeAcadyme\\Angular\\Angular_Tasks\\VoucherTask\\VoucherTask\\vouchertask.client\\src\\app\\add-voucher\\add-voucher.component.ts",
+              "RelativeDocumentMoniker": "vouchertask.client\\src\\app\\add-voucher\\add-voucher.component.ts",
+              "ToolTip": "C:\\OrangeAcadyme\\Angular\\Angular_Tasks\\VoucherTask\\VoucherTask\\vouchertask.client\\src\\app\\add-voucher\\add-voucher.component.ts",
+              "RelativeToolTip": "vouchertask.client\\src\\app\\add-voucher\\add-voucher.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-23T14:24:18.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "add-voucher.component.html",
+              "DocumentMoniker": "C:\\OrangeAcadyme\\Angular\\Angular_Tasks\\VoucherTask\\VoucherTask\\vouchertask.client\\src\\app\\add-voucher\\add-voucher.component.html",
+              "RelativeDocumentMoniker": "vouchertask.client\\src\\app\\add-voucher\\add-voucher.component.html",
+              "ToolTip": "C:\\OrangeAcadyme\\Angular\\Angular_Tasks\\VoucherTask\\VoucherTask\\vouchertask.client\\src\\app\\add-voucher\\add-voucher.component.html",
+              "RelativeToolTip": "vouchertask.client\\src\\app\\add-voucher\\add-voucher.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-23T14:23:40.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "url.service.ts",
+              "DocumentMoniker": "C:\\OrangeAcadyme\\Angular\\Angular_Tasks\\VoucherTask\\VoucherTask\\vouchertask.client\\src\\app\\Service\\url.service.ts",
+              "RelativeDocumentMoniker": "vouchertask.client\\src\\app\\Service\\url.service.ts",
+              "ToolTip": "C:\\OrangeAcadyme\\Angular\\Angular_Tasks\\VoucherTask\\VoucherTask\\vouchertask.client\\src\\app\\Service\\url.service.ts",
+              "RelativeToolTip": "vouchertask.client\\src\\app\\Service\\url.service.ts",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-23T13:14:44.016Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

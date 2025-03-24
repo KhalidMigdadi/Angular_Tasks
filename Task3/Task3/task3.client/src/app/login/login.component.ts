@@ -17,9 +17,8 @@ export class LoginComponent {
     console.log('Logged User:', loggedUser); // Check if this prints correct values
     this._url.checkUser().subscribe((data) => {
       console.log('Users from API:', data); // Check what data comes from the API
-
       let userData = data.find((x: any) => x.Email == loggedUser.Email && x.password == loggedUser.password);
-
+      sessionStorage.setItem('loggeduser', JSON.stringify(userData))
       if (userData) {
         alert("Logged In Successfully");
         this._route.navigate(["/cat"]);

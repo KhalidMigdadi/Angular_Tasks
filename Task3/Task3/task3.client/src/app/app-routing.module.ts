@@ -11,6 +11,7 @@ import { GetCategoryComponent } from './Admin/get-category/get-category.componen
 import { GetProductComponent } from './Admin/get-product/get-product.component';
 import { EditCategoryComponent } from './Admin/edit-category/edit-category.component';
 import { PipesComponent } from './pipes/pipes.component';
+import { ProfileComponent } from './profile/profile.component';
 
 const routes: Routes = [
 
@@ -18,6 +19,7 @@ const routes: Routes = [
   { path: "register", component: RegisterComponent },
   { path: "cat", component: ShowCategoryComponent },
   { path: "pipe", component: PipesComponent },
+  { path: "profile", component: ProfileComponent },
   { path: "pro/:id", component: ShowProductsComponent },
   {
     path: "dashboard", component: DashboardComponent, children: [
